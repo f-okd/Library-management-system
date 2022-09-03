@@ -1,0 +1,48 @@
+1,Romance,The Notebook,Nicolas Sparks,1/8/2010,0
+2,Romance,Vision in White,Nora Roberts,24/1/1990,AHDR
+3,Romance,Tonight and Forever,Brenda jackson,5/9/1990,VSPW
+4,Romance,Fifty Shades of Grey,E.L. James,05/03/2019,VSPW
+5,Romance,Almost Eden,Richard Taylor,26/03/2019,VSPW
+6,Romance,Almost Eden,Richard Taylor,08/05/2019,RRHR
+7,Romance,Why She Wept,Dick Snyder,08/05/2019,EMLP
+8,Sci-Fi,The Lord of the Rings,J.R.R. Tolkien,01/11/1990,TSCW
+9,Sci-Fi,The Hitchhiker's Guide to the Galaxy,Douglas Adams,03/04/1995,RRHR
+10,Sci-Fi,Ender's Game,Orson Scott Card,07/10/1997,YKNX
+11,Sci-Fi,Dune,Frank Herbert,09/02/2018,LPRA
+12,Sci-Fi,Dune,Frank Herbert,08/03/2018,AHDR
+13,Sci-Fi,Dune,Frank Herbert,22/03/2018,AHDR
+14,Sci-Fi,Star Wars Visions: Ronin,Emma Mieko Candonm,28/03/2018,AHDR
+15,Thriller,The Silence of the Lambs,Thomas Harris,26/10/1998,EMLP
+16,Thriller,The Girl With The Dragon Tattoo,Stieg Larsson,14/09/2001,YKNX
+17,Thriller,The Da Vinci Code,Dan Brown,21/02/2003,UEQG
+18,Thriller,Takeover,Edie Baylis,24/04/2018,DPJJ
+19,Thriller,Takeover,Edie Baylis,06/06/2018,0
+20,Thriller,Girl Silenced,Blake Pierce,26/07/2018,0
+21,Historical,All The Light We Cannot See,Anthony Doerr,11/03/2005,YKNX
+22,Historical,The Color Purple,alice walker,10/06/2005,VSPW
+23,Historical,Emperor: The Gates of Rome,Conn Igulden,19/12/2016,FAYE
+24,Historical,The Color Purple,Alice Walker,10/06/2005,0
+25,Historical,Exploring Historical Cambridgeshire,Robert Leader,25/02/2019,0
+26,Historical,Exploring Historical Cambridgeshire,Robert Leader,18/04/2019,AHDR
+27,Historical,River War 2V,Winston S. Churchill,23/04/2019,GHCV
+28,Dystopian,The Handmaid's Tale,Margaret Atwood,13/06/2017,VSPW
+29,Dystopian,1984,George Orwell,12/09/2013,YKNX
+30,Dystopian,Brave New World,Aldous Huxley,27/02/2015,UEQG
+31,Dystopian,To Paradise,Hanya Yanagihara,01/05/2019,DPJJ
+32,Dystopian,Brown Girl in the Ring,Nalo Hopkinson,10/07/2019,0
+33,Dystopian,Brown Girl in the Ring,Nalo Hopkinson,15/08/2019,0
+34,Dystopian,1Q84,Haruki Murakami,06/01/2020,0
+35,Fantasy,City of Bones,Cassandra Clare,17/01/2020,0
+36,Fantasy,The Lightning Thief,Rick Riordan,21/04/2020,0
+37,Fantasy,The Lightning Thief,Rick Riordan,14/12/2020,0
+38,Fantasy,Vampire Academy,Richelle Mead,16/04/2021,0
+39,Fantasy,Darkfever,Karen Marie Moning,07/05/2021,0
+40,Fantasy,Harry Potter and the Sorcerer's Stone, J.K. Rowling,31/05/2021,0
+41,Fantasy,Harry Potter and the Chamber of Secrets, J.K. Rowling,31/05/2021,0
+42,Fantasy,Harry Potter and the Prisoner of Azkaban, J.K. Rowling,31/05/2021,0
+43,Fantasy,Harry Potter and the Goblet of Fire, J.K. Rowling,31/05/2021,0
+44,Fantasy,Harry Potter and the Order of the Phoenix, J.K. Rowling,31/05/2021,0
+45,Fantasy,Harry Potter and the Half-Blood Prince, J.K. Rowling,31/05/2021,0
+46,Fantasy,Harry Potter and the Deathly Hallows, J.K. Rowling,31/05/2021,0
+47,Fantasy,Harry Potter and the Cursed Child, J.K. Rowling,31/05/2021,0
+48,Fantasy,Harry Potter and the Cursed Child, J.K. Rowling,28/06/2021,0
